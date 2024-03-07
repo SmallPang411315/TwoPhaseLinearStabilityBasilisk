@@ -10,4 +10,6 @@ Thirdly, we link the general eigenvalue solver $Arpack$ with $Basilisk$. Given a
 
 In [Validation_Schmidt_2021](Validation_Schmidt_2021/), some .c codes that are used to read base flow states, make an time integration of linearised eqautions and give the flow information to eigen-problem solver. And we push the case for Weber number $We=5$ as an example. In this folder [Initial](Validation_Schmidt_2021/Initial), some videos about perturbed velocities and perturbed interface are made in time for a vivid view. The most dangerous mode emerges as the integration time is long enough. Thus, we can have a quick convergence by using the linear flow field as initial guess instead of random noise.
 
-In [JetLSA](JetLSA/), the file EigenVec comprises of all eigenvectors, and top eigenvalues are logged in file [out](JetLSA/out) for each iteration. You can run [EigenPlot.py](JetLSA/EigenPlot.py) to plot the eigenvectors.
+In [JetLSA](JetLSA/), the file EigenVec comprises of all eigenvectors, and top eigenvalues are logged in file [out](JetLSA/out) for each iteration. You can run [EigenPlot.py](JetLSA/EigenPlot.py) to plot the eigenvectors. 
+
+There are still many resutls, and we do not upload all because of storage, sorry! 

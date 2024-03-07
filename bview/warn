@@ -1,0 +1,8 @@
+.qcczyUJjw/bview.c:1:7: warning: line number out of range
+    1 | #line 0 "bview-cpp.c"
+      |       ^
+bview-cpp.c: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+    1 | /* Copyright (C) 1991-2022 Free Software Foundation, Inc.
+      |       ^

@@ -1,0 +1,1 @@
+qcc -grid=quadtree -o run Arapck_GivenInitial_NoPhiInitial_LSA.c -L$BASILISK/gl -lglutils -lfb_osmesa -lOSMesa -lGLU -larpack -I$BASILISK -L$teciosrc -ltecio -lstdc++ -lpthread -lm

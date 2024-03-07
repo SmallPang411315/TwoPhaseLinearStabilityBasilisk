@@ -1,0 +1,75 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	bview.c \
+	qplot.c \
+
+plots: \
+	mtrace/plot.png \
+	profiling/plot.png \
+	speed/plot.png \
+	bview/plots.page \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	PointTriangle.h.page \
+	advection.h.page \
+	all-mach.h.page \
+	axi.h.page \
+	axistream.h.page \
+	bcg.h.page \
+	bview.c.page \
+	compressible.h.page \
+	conservation.h.page \
+	contact.h.page \
+	curvature.h.page \
+	diffusion.h.page \
+	discharge.h.page \
+	display.h.page \
+	distance.h.page \
+	draw.h.page \
+	elevation.h.page \
+	embed-tree.h.page \
+	embed.h.page \
+	fene-p.h.page \
+	fractions.h.page \
+	gauges.h.page \
+	geometry.h.page \
+	green-naghdi.h.page \
+	heights.h.page \
+	hele-shaw.h.page \
+	henry.h.page \
+	hessenberg.h.page \
+	iforce.h.page \
+	input.h.page \
+	khash.h.page \
+	lambda2.h.page \
+	log-conform.h.page \
+	maxruntime.h.page \
+	momentum.h.page \
+	multilayer.h.page \
+	myc.h.page \
+	okada.h.page \
+	output.h.page \
+	parse.h.page \
+	poisson.h.page \
+	profiling.h.page \
+	radial.h.page \
+	reduced.h.page \
+	run.h.page \
+	runge-kutta.h.page \
+	saint-venant-implicit.h.page \
+	saint-venant.h.page \
+	spherical.h.page \
+	tag.h.page \
+	tension.h.page \
+	tracer.h.page \
+	two-phase.h.page \
+	utils.h.page \
+	vertexbuffer.h.page \
+	view.h.page \
+	vof.h.page \
+

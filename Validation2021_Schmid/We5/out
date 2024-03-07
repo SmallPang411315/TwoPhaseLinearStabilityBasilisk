@@ -1,0 +1,1808 @@
+
+# Quadtree, 86 steps, 49.6224 CPU, 49.71 real, 5.67e+04 points.step/s, 79 var
+
+# Quadtree, 84 steps, 48.0208 CPU, 48.07 real, 5.73e+04 points.step/s, 83 var
+
+# Quadtree, 84 steps, 48.153 CPU, 48.23 real, 5.71e+04 points.step/s, 87 var
+
+# Quadtree, 84 steps, 45.635 CPU, 45.71 real, 6.02e+04 points.step/s, 91 var
+
+# Quadtree, 84 steps, 44.83 CPU, 44.92 real, 6.13e+04 points.step/s, 95 var
+
+# Quadtree, 84 steps, 45.191 CPU, 45.25 real, 6.08e+04 points.step/s, 99 var
+
+# Quadtree, 84 steps, 46.8639 CPU, 46.94 real, 5.86e+04 points.step/s, 103 var
+
+# Quadtree, 84 steps, 50.3383 CPU, 50.39 real, 5.46e+04 points.step/s, 107 var
+
+# Quadtree, 84 steps, 52.137 CPU, 52.19 real, 5.27e+04 points.step/s, 111 var
+
+# Quadtree, 84 steps, 52.7811 CPU, 52.83 real, 5.21e+04 points.step/s, 115 var
+
+# Quadtree, 84 steps, 50.4687 CPU, 50.54 real, 5.45e+04 points.step/s, 119 var
+
+# Quadtree, 84 steps, 56.9846 CPU, 57.05 real, 4.82e+04 points.step/s, 123 var
+
+# Quadtree, 84 steps, 58.5111 CPU, 58.56 real, 4.7e+04 points.step/s, 127 var
+
+# Quadtree, 84 steps, 50.293 CPU, 50.4 real, 5.46e+04 points.step/s, 131 var
+
+# Quadtree, 84 steps, 53.2992 CPU, 53.35 real, 5.16e+04 points.step/s, 135 var
+
+# Quadtree, 84 steps, 60.3857 CPU, 60.44 real, 4.55e+04 points.step/s, 139 var
+
+# Quadtree, 84 steps, 58.9105 CPU, 58.96 real, 4.67e+04 points.step/s, 143 var
+
+# Quadtree, 84 steps, 56.1744 CPU, 56.25 real, 4.89e+04 points.step/s, 147 var
+
+# Quadtree, 84 steps, 58.6625 CPU, 58.71 real, 4.69e+04 points.step/s, 151 var
+
+# Quadtree, 84 steps, 53.2799 CPU, 53.32 real, 5.16e+04 points.step/s, 155 var
+
+# Quadtree, 84 steps, 55.5206 CPU, 55.55 real, 4.95e+04 points.step/s, 159 var
+
+# Quadtree, 84 steps, 54.1005 CPU, 54.14 real, 5.08e+04 points.step/s, 163 var
+
+# Quadtree, 84 steps, 52.88 CPU, 52.91 real, 5.2e+04 points.step/s, 167 var
+
+# Quadtree, 84 steps, 54.2224 CPU, 54.27 real, 5.07e+04 points.step/s, 171 var
+
+# Quadtree, 84 steps, 54.1292 CPU, 54.18 real, 5.08e+04 points.step/s, 175 var
+
+# Quadtree, 84 steps, 56.4945 CPU, 56.55 real, 4.87e+04 points.step/s, 179 var
+
+# Quadtree, 84 steps, 58.7265 CPU, 58.76 real, 4.68e+04 points.step/s, 183 var
+
+# Quadtree, 84 steps, 57.8042 CPU, 57.85 real, 4.76e+04 points.step/s, 187 var
+
+ _getv0: B-norm of initial / restarted starting vector
+ -----------------------------------------------------
+    1 -    1:    7.21478D-08
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       1
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       5
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      11
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    2.45699D-01   2.45699D-01  -4.24632D-01  -4.24632D-01
+    5 -    8:    1.89526D-01   1.89526D-01  -7.17726D-01  -7.17726D-01
+    9 -   12:   -7.62133D-01  -2.25202D-01  -2.25202D-01   7.76865D-01
+   13 -   16:    7.76865D-01   9.70816D-01   8.50748D-01   8.50748D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:   -3.86857D-01   3.86857D-01  -4.69935D-01   4.69935D-01
+    5 -    8:    7.79572D-01  -7.79572D-01  -2.61890D-01   2.61890D-01
+    9 -   12:    0.00000D+00  -8.85820D-01   8.85820D-01  -5.55832D-01
+   13 -   16:    5.55832D-01   0.00000D+00   5.98205D-01  -5.98205D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.45535D-01   8.45535D-01   6.95864D-01   6.95864D-01
+    5 -    8:    5.54106D-01   5.54106D-01   4.99049D-01   4.99049D-01
+    9 -   12:    4.68275D-01   2.30188D-01   2.30188D-01   3.00417D-01
+   13 -   16:    3.00417D-01   2.02639D-01   2.29755D-02   2.29755D-02
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       2
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       5
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      11
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    6.93511D-01   3.25722D-01   3.25722D-01   7.72947D-01
+    5 -    8:    7.72947D-01   5.36542D-02   5.36542D-02  -4.51271D-01
+    9 -   12:   -4.51271D-01  -6.66570D-01  -6.66570D-01   7.77146D-01
+   13 -   16:    7.77146D-01   9.68316D-01   8.50326D-01   8.50326D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00  -6.65617D-01   6.65617D-01   3.97678D-01
+    5 -    8:   -3.97678D-01   8.43271D-01  -8.43271D-01   6.59038D-01
+    9 -   12:   -6.59038D-01   3.36467D-01  -3.36467D-01   5.75380D-01
+   13 -   16:   -5.75380D-01   0.00000D+00  -5.99173D-01   5.99173D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    6.87259D-01   6.01594D-01   6.01594D-01   4.84017D-01
+    5 -    8:    4.84017D-01   4.28943D-01   4.28943D-01   4.19879D-01
+    9 -   12:    4.19879D-01   4.19605D-01   4.19605D-01   2.55723D-01
+   13 -   16:    2.55723D-01   1.67417D-01   1.50809D-02   1.50809D-02
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    1.11022D-16
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       4
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+
+# Quadtree, 84 steps, 61.2137 CPU, 61.27 real, 4.49e+04 points.step/s, 191 var
+
+# Quadtree, 84 steps, 54.7078 CPU, 54.76 real, 5.03e+04 points.step/s, 195 var
+
+# Quadtree, 84 steps, 54.1317 CPU, 54.17 real, 5.08e+04 points.step/s, 199 var
+
+# Quadtree, 84 steps, 75.0818 CPU, 75.12 real, 3.66e+04 points.step/s, 203 var
+
+# Quadtree, 84 steps, 79.9297 CPU, 79.97 real, 3.44e+04 points.step/s, 207 var
+
+# Quadtree, 84 steps, 66.727 CPU, 66.75 real, 4.12e+04 points.step/s, 211 var
+
+# Quadtree, 84 steps, 91.2527 CPU, 91.26 real, 3.02e+04 points.step/s, 215 var
+
+# Quadtree, 84 steps, 61.2003 CPU, 61.26 real, 4.49e+04 points.step/s, 219 var
+
+# Quadtree, 84 steps, 70.556 CPU, 70.61 real, 3.9e+04 points.step/s, 223 var
+
+# Quadtree, 84 steps, 85.1267 CPU, 85.19 real, 3.23e+04 points.step/s, 227 var
+
+# Quadtree, 84 steps, 90.6302 CPU, 90.65 real, 3.04e+04 points.step/s, 231 var
+
+# Quadtree, 84 steps, 83.2831 CPU, 83.3 real, 3.3e+04 points.step/s, 235 var
+
+# Quadtree, 84 steps, 76.5424 CPU, 76.58 real, 3.59e+04 points.step/s, 239 var
+
+# Quadtree, 84 steps, 83.2252 CPU, 83.25 real, 3.31e+04 points.step/s, 243 var
+
+# Quadtree, 84 steps, 52.762 CPU, 52.8 real, 5.21e+04 points.step/s, 247 var
+
+# Quadtree, 84 steps, 86.2808 CPU, 86.3 real, 3.19e+04 points.step/s, 251 var
+
+# Quadtree, 84 steps, 83.3949 CPU, 83.43 real, 3.3e+04 points.step/s, 255 var
+
+# Quadtree, 84 steps, 82.3544 CPU, 82.38 real, 3.34e+04 points.step/s, 259 var
+
+# Quadtree, 84 steps, 99.1176 CPU, 99.18 real, 2.78e+04 points.step/s, 263 var
+
+# Quadtree, 84 steps, 94.0254 CPU, 94.07 real, 2.93e+04 points.step/s, 267 var
+
+# Quadtree, 84 steps, 97.0251 CPU, 97.13 real, 2.83e+04 points.step/s, 271 var
+
+# Quadtree, 84 steps, 89.8578 CPU, 89.87 real, 3.06e+04 points.step/s, 275 var
+
+# Quadtree, 84 steps, 85.9273 CPU, 85.97 real, 3.2e+04 points.step/s, 279 var
+ -------------------------------------------
+    1 -    1:       6
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       8
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      10
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       3
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -5.46282D-01  -5.46282D-01  -7.09126D-01  -7.09126D-01
+    5 -    8:    4.56297D-01   4.56297D-01  -2.22469D-01  -2.22469D-01
+    9 -   12:    8.50198D-01   8.50198D-01   9.32198D-01   9.32198D-01
+   13 -   16:    7.88113D-01   7.88113D-01   8.51409D-01   8.51409D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    4.59925D-01  -4.59925D-01   1.96474D-01  -1.96474D-01
+    5 -    8:   -7.56947D-01   7.56947D-01  -7.91353D-01   7.91353D-01
+    9 -   12:   -4.42271D-01   4.42271D-01  -3.52281D-02   3.52281D-02
+   13 -   16:    6.13498D-01  -6.13498D-01   5.99032D-01  -5.99032D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    5.57920D-01   5.57920D-01   5.45224D-01   5.45224D-01
+    5 -    8:    3.22735D-01   3.22735D-01   2.97468D-01   2.97468D-01
+    9 -   12:    2.95610D-01   2.95610D-01   2.79293D-01   2.79293D-01
+   13 -   16:    1.52883D-01   1.52883D-01   8.59847D-03   8.59847D-03
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       4
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    7.34643D-01   4.93992D-01   4.93992D-01   7.93908D-01
+    5 -    8:    7.93908D-01   1.33272D-01   1.33272D-01  -3.80763D-01
+    9 -   12:   -3.80763D-01  -6.02915D-01  -6.02915D-01  -7.77292D-01
+   13 -   16:    8.02393D-01   8.02393D-01   8.52042D-01   8.52042D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00  -6.20793D-01   6.20793D-01  -3.21636D-01
+    5 -    8:    3.21636D-01  -7.86625D-01   7.86625D-01   7.18622D-01
+    9 -   12:   -7.18622D-01  -4.76569D-01   4.76569D-01   0.00000D+00
+   13 -   16:   -6.22314D-01   6.22314D-01  -5.98830D-01   5.98830D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    6.42502D-01   5.14584D-01   5.14584D-01   4.90946D-01
+    5 -    8:    4.90946D-01   4.29487D-01   4.29487D-01   4.06780D-01
+    9 -   12:    4.06780D-01   3.85807D-01   3.85807D-01   3.59507D-01
+   13 -   16:    7.69010D-02   7.69010D-02   4.16709D-03   4.16709D-03
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+
+# Quadtree, 84 steps, 96.2931 CPU, 96.31 real, 2.86e+04 points.step/s, 283 var
+
+# Quadtree, 84 steps, 85.3067 CPU, 85.35 real, 3.22e+04 points.step/s, 287 var
+
+# Quadtree, 84 steps, 63.2254 CPU, 63.25 real, 4.35e+04 points.step/s, 291 var
+
+# Quadtree, 84 steps, 54.6059 CPU, 54.66 real, 5.04e+04 points.step/s, 295 var
+
+# Quadtree, 84 steps, 82.1854 CPU, 82.21 real, 3.35e+04 points.step/s, 299 var
+
+# Quadtree, 84 steps, 82.2532 CPU, 82.29 real, 3.34e+04 points.step/s, 303 var
+
+# Quadtree, 84 steps, 77.4625 CPU, 77.51 real, 3.55e+04 points.step/s, 307 var
+
+# Quadtree, 84 steps, 90.5051 CPU, 90.54 real, 3.04e+04 points.step/s, 311 var
+
+# Quadtree, 84 steps, 88.2447 CPU, 88.28 real, 3.12e+04 points.step/s, 315 var
+
+# Quadtree, 84 steps, 71.3988 CPU, 71.45 real, 3.85e+04 points.step/s, 319 var
+
+# Quadtree, 84 steps, 94.2348 CPU, 94.28 real, 2.92e+04 points.step/s, 323 var
+
+# Quadtree, 84 steps, 89.9019 CPU, 89.94 real, 3.06e+04 points.step/s, 327 var
+
+# Quadtree, 84 steps, 88.4345 CPU, 88.45 real, 3.11e+04 points.step/s, 331 var
+
+# Quadtree, 84 steps, 82.4185 CPU, 82.45 real, 3.34e+04 points.step/s, 335 var
+
+# Quadtree, 84 steps, 95.8753 CPU, 95.91 real, 2.87e+04 points.step/s, 339 var
+
+# Quadtree, 84 steps, 73.168 CPU, 73.22 real, 3.76e+04 points.step/s, 343 var
+
+# Quadtree, 84 steps, 85.2293 CPU, 85.26 real, 3.23e+04 points.step/s, 347 var
+
+# Quadtree, 84 steps, 61.8182 CPU, 61.86 real, 4.45e+04 points.step/s, 351 var
+
+# Quadtree, 84 steps, 74.8544 CPU, 74.88 real, 3.68e+04 points.step/s, 355 var
+
+# Quadtree, 84 steps, 96.5503 CPU, 96.6 real, 2.85e+04 points.step/s, 359 var
+
+# Quadtree, 84 steps, 84.2851 CPU, 84.33 real, 3.26e+04 points.step/s, 363 var
+
+# Quadtree, 84 steps, 102.547 CPU, 102.6 real, 2.68e+04 points.step/s, 367 var
+
+# Quadtree, 84 steps, 89.9484 CPU, 90 real, 3.06e+04 points.step/s, 371 var
+
+# Quadtree, 84 steps, 87.8625 CPU, 87.89 real, 3.13e+04 points.step/s, 375 var
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    2.77556D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       4
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       6
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       8
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      10
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      12
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       5
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -1.41695D-01  -1.59165D-02  -1.59165D-02   8.19231D-01
+    5 -    8:   -7.17965D-01  -7.17965D-01   3.62890D-01   3.62890D-01
+    9 -   12:   -4.31514D-01  -4.31514D-01   8.20815D-01   8.20815D-01
+   13 -   16:    8.05219D-01   8.05219D-01   8.51899D-01   8.51899D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00  -7.35969D-01   7.35969D-01   0.00000D+00
+    5 -    8:    2.56505D-01  -2.56505D-01   7.63565D-01  -7.63565D-01
+    9 -   12:    6.57420D-01  -6.57420D-01   4.40786D-01  -4.40786D-01
+   13 -   16:   -6.24656D-01   6.24656D-01   5.98525D-01  -5.98525D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.97122D-01   5.59913D-01   5.59913D-01   5.15107D-01
+    5 -    8:    4.69500D-01   4.69500D-01   4.64518D-01   4.64518D-01
+    9 -   12:    4.07286D-01   4.07286D-01   3.40148D-01   3.40148D-01
+   13 -   16:    4.00395D-02   4.00395D-02   2.08673D-03   2.08673D-03
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       6
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    6.93614D-02   6.93614D-02   4.85262D-01   4.85262D-01
+    5 -    8:    8.57831D-01  -2.10331D-01  -2.10331D-01   8.00982D-01
+    9 -   12:    8.00982D-01  -6.01543D-01  -6.01543D-01  -7.84271D-01
+   13 -   16:    8.05873D-01   8.05873D-01   8.51752D-01   8.51752D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+
+# Quadtree, 84 steps, 70.7942 CPU, 70.84 real, 3.89e+04 points.step/s, 379 var
+
+# Quadtree, 84 steps, 72.8823 CPU, 72.93 real, 3.77e+04 points.step/s, 383 var
+
+# Quadtree, 84 steps, 89.6858 CPU, 89.71 real, 3.07e+04 points.step/s, 387 var
+
+# Quadtree, 84 steps, 86.1943 CPU, 86.21 real, 3.19e+04 points.step/s, 391 var
+
+# Quadtree, 84 steps, 92.9226 CPU, 92.96 real, 2.96e+04 points.step/s, 395 var
+
+# Quadtree, 84 steps, 83.5817 CPU, 83.67 real, 3.29e+04 points.step/s, 399 var
+
+# Quadtree, 84 steps, 79.9306 CPU, 79.98 real, 3.44e+04 points.step/s, 403 var
+
+# Quadtree, 84 steps, 75.5915 CPU, 75.74 real, 3.63e+04 points.step/s, 407 var
+
+# Quadtree, 84 steps, 58.0071 CPU, 58.06 real, 4.74e+04 points.step/s, 411 var
+
+# Quadtree, 84 steps, 54.8818 CPU, 54.94 real, 5.01e+04 points.step/s, 415 var
+
+# Quadtree, 84 steps, 68.3132 CPU, 68.35 real, 4.03e+04 points.step/s, 419 var
+
+# Quadtree, 84 steps, 73.0382 CPU, 73.15 real, 3.76e+04 points.step/s, 423 var
+
+# Quadtree, 84 steps, 85.4953 CPU, 85.51 real, 3.22e+04 points.step/s, 427 var
+
+# Quadtree, 84 steps, 87.796 CPU, 87.83 real, 3.13e+04 points.step/s, 431 var
+
+# Quadtree, 84 steps, 87.1419 CPU, 87.19 real, 3.16e+04 points.step/s, 435 var
+
+# Quadtree, 84 steps, 83.1236 CPU, 83.15 real, 3.31e+04 points.step/s, 439 var
+
+# Quadtree, 84 steps, 81.4312 CPU, 81.47 real, 3.38e+04 points.step/s, 443 var
+
+# Quadtree, 84 steps, 93.4267 CPU, 93.45 real, 2.95e+04 points.step/s, 447 var
+
+# Quadtree, 84 steps, 53.9356 CPU, 54 real, 5.1e+04 points.step/s, 451 var
+
+# Quadtree, 84 steps, 58.3161 CPU, 58.38 real, 4.71e+04 points.step/s, 455 var
+
+# Quadtree, 84 steps, 55.5095 CPU, 55.57 real, 4.95e+04 points.step/s, 459 var
+
+# Quadtree, 84 steps, 52.6743 CPU, 52.74 real, 5.22e+04 points.step/s, 463 var
+
+# Quadtree, 84 steps, 59.3302 CPU, 59.39 real, 4.63e+04 points.step/s, 467 var
+
+# Quadtree, 84 steps, 59.1238 CPU, 59.16 real, 4.65e+04 points.step/s, 471 var
+    1 -    4:    7.07060D-01  -7.07060D-01   6.63255D-01  -6.63255D-01
+    5 -    8:    0.00000D+00   7.10690D-01  -7.10690D-01  -4.02050D-01
+    9 -   12:    4.02050D-01  -5.18092D-01   5.18092D-01   0.00000D+00
+   13 -   16:   -6.25303D-01   6.25303D-01  -5.98564D-01   5.98564D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    5.57260D-01   5.57260D-01   4.90365D-01   4.90365D-01
+    5 -    8:    4.85885D-01   4.76511D-01   4.76511D-01   4.25007D-01
+    9 -   12:    4.25007D-01   3.21552D-01   3.21552D-01   2.73846D-01
+   13 -   16:    2.12848D-02   2.12848D-02   9.61479D-04   9.61479D-04
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       7
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    1.93461D-01   8.30817D-01  -1.70009D-02  -1.70009D-02
+    5 -    8:    3.62069D-01   3.62069D-01   7.92597D-01   7.92597D-01
+    9 -   12:   -4.05446D-01  -4.05446D-01  -7.47727D-01  -7.47727D-01
+   13 -   16:    8.06080D-01   8.06080D-01   8.51752D-01   8.51752D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   0.00000D+00  -7.96999D-01   7.96999D-01
+    5 -    8:   -7.73031D-01   7.73031D-01   4.29297D-01  -4.29297D-01
+    9 -   12:    6.75169D-01  -6.75169D-01   2.83786D-01  -2.83786D-01
+   13 -   16:   -6.25577D-01   6.25577D-01   5.98646D-01  -5.98646D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    9.01703D-01   5.29685D-01   4.89178D-01   4.89178D-01
+    5 -    8:    4.28183D-01   4.28183D-01   4.11481D-01   4.11481D-01
+    9 -   12:    3.95120D-01   3.95120D-01   2.76922D-01   2.76922D-01
+   13 -   16:    1.24048D-02   1.24048D-02   5.10726D-04   5.10726D-04
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       8
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    4.17801D-01   6.79606D-01   6.79606D-01   6.39272D-01
+    5 -    8:    6.39272D-01   1.07994D-01   1.07994D-01  -5.91529D-01
+    9 -   12:   -5.91529D-01  -2.01600D-01  -2.01600D-01  -8.10694D-01
+   13 -   16:    8.06082D-01   8.06082D-01   8.51797D-01   8.51797D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00  -2.29924D-01   2.29924D-01   4.81477D-01
+    5 -    8:   -4.81477D-01   6.84144D-01  -6.84144D-01   3.59569D-01
+    9 -   12:   -3.59569D-01   7.46727D-01  -7.46727D-01   0.00000D+00
+   13 -   16:   -6.25605D-01   6.25605D-01  -5.98655D-01   5.98655D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.33255D-01   6.42163D-01   6.42163D-01   5.27075D-01
+    5 -    8:    5.27075D-01   4.88160D-01   4.88160D-01   4.80439D-01
+    9 -   12:    4.80439D-01   3.76585D-01   3.76585D-01   3.54899D-01
+   13 -   16:    8.55355D-03   8.55355D-03   2.83997D-04   2.83997D-04
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+
+# Quadtree, 84 steps, 57.0938 CPU, 57.15 real, 4.82e+04 points.step/s, 475 var
+
+# Quadtree, 84 steps, 52.3948 CPU, 52.46 real, 5.25e+04 points.step/s, 479 var
+
+# Quadtree, 84 steps, 60.3177 CPU, 60.4 real, 4.56e+04 points.step/s, 483 var
+
+# Quadtree, 84 steps, 58.6785 CPU, 58.73 real, 4.69e+04 points.step/s, 487 var
+
+# Quadtree, 84 steps, 59.7132 CPU, 59.77 real, 4.61e+04 points.step/s, 491 var
+
+# Quadtree, 84 steps, 59.7842 CPU, 59.84 real, 4.6e+04 points.step/s, 495 var
+
+# Quadtree, 84 steps, 55.302 CPU, 55.36 real, 4.97e+04 points.step/s, 499 var
+
+# Quadtree, 84 steps, 52.4928 CPU, 52.56 real, 5.24e+04 points.step/s, 503 var
+
+# Quadtree, 84 steps, 49.7384 CPU, 49.77 real, 5.53e+04 points.step/s, 507 var
+
+# Quadtree, 84 steps, 62.9238 CPU, 63.01 real, 4.37e+04 points.step/s, 511 var
+
+# Quadtree, 84 steps, 56.8579 CPU, 56.93 real, 4.83e+04 points.step/s, 515 var
+
+# Quadtree, 84 steps, 55.237 CPU, 55.3 real, 4.98e+04 points.step/s, 519 var
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:   -1.38778D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       4
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       6
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       8
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      10
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      12
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:       9
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    3.35470D-01   4.92345D-02   4.92345D-02   8.46039D-01
+    5 -    8:   -6.32196D-01  -6.32196D-01   2.88510D-01   2.88510D-01
+    9 -   12:    7.88589D-01   7.88589D-01  -4.83557D-01  -4.83557D-01
+   13 -   16:    8.06069D-01   8.06069D-01   8.51802D-01   8.51802D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   6.80001D-01  -6.80001D-01   0.00000D+00
+    5 -    8:    2.00264D-01  -2.00264D-01   7.42812D-01  -7.42812D-01
+    9 -   12:    4.63272D-01  -4.63272D-01   5.95458D-01  -5.95458D-01
+   13 -   16:   -6.25648D-01   6.25648D-01   5.98625D-01  -5.98625D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.52688D-01   5.29861D-01   5.29861D-01   5.07151D-01
+    5 -    8:    4.48263D-01   4.48263D-01   3.98931D-01   3.98931D-01
+    9 -   12:    3.62591D-01   3.62591D-01   3.29288D-01   3.29288D-01
+   13 -   16:    5.39279D-03   5.39279D-03   1.64630D-04   1.64630D-04
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    4.85723D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       4
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+
+# Quadtree, 84 steps, 51.6276 CPU, 51.69 real, 5.33e+04 points.step/s, 523 var
+
+# Quadtree, 84 steps, 53.0063 CPU, 53.07 real, 5.19e+04 points.step/s, 527 var
+
+# Quadtree, 84 steps, 53.3414 CPU, 53.41 real, 5.15e+04 points.step/s, 531 var
+
+# Quadtree, 84 steps, 57.42 CPU, 57.45 real, 4.79e+04 points.step/s, 535 var
+
+# Quadtree, 84 steps, 52.8795 CPU, 52.94 real, 5.2e+04 points.step/s, 539 var
+
+# Quadtree, 84 steps, 56.117 CPU, 56.18 real, 4.9e+04 points.step/s, 543 var
+
+# Quadtree, 84 steps, 55.1313 CPU, 55.17 real, 4.99e+04 points.step/s, 547 var
+
+# Quadtree, 84 steps, 56.3548 CPU, 56.41 real, 4.88e+04 points.step/s, 551 var
+
+# Quadtree, 84 steps, 52.7343 CPU, 52.8 real, 5.21e+04 points.step/s, 555 var
+
+# Quadtree, 84 steps, 56.5801 CPU, 56.63 real, 4.86e+04 points.step/s, 559 var
+
+# Quadtree, 84 steps, 54.4642 CPU, 54.54 real, 5.05e+04 points.step/s, 563 var
+
+# Quadtree, 84 steps, 58.5942 CPU, 58.67 real, 4.69e+04 points.step/s, 567 var
+
+# Quadtree, 84 steps, 55.8456 CPU, 55.9 real, 4.92e+04 points.step/s, 571 var
+
+# Quadtree, 84 steps, 55.1607 CPU, 55.24 real, 4.98e+04 points.step/s, 575 var
+
+# Quadtree, 84 steps, 54.2006 CPU, 54.24 real, 5.07e+04 points.step/s, 579 var
+
+# Quadtree, 84 steps, 57.8166 CPU, 57.87 real, 4.76e+04 points.step/s, 583 var
+
+# Quadtree, 84 steps, 56.0202 CPU, 56.07 real, 4.91e+04 points.step/s, 587 var
+
+# Quadtree, 84 steps, 56.6466 CPU, 56.69 real, 4.86e+04 points.step/s, 591 var
+
+# Quadtree, 84 steps, 57.0391 CPU, 57.07 real, 4.82e+04 points.step/s, 595 var
+
+# Quadtree, 84 steps, 85.7478 CPU, 85.8 real, 3.21e+04 points.step/s, 599 var
+
+# Quadtree, 84 steps, 90.3596 CPU, 90.39 real, 3.04e+04 points.step/s, 603 var
+
+# Quadtree, 84 steps, 89.1846 CPU, 89.31 real, 3.08e+04 points.step/s, 607 var
+
+# Quadtree, 84 steps, 80.2753 CPU, 80.3 real, 3.43e+04 points.step/s, 611 var
+
+# Quadtree, 84 steps, 87.0134 CPU, 87.07 real, 3.16e+04 points.step/s, 615 var
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       5
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       7
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       9
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      11
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      10
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    3.98451D-01   3.98451D-01   8.09298D-01   7.12972D-01
+    5 -    8:    7.12972D-01  -6.35420D-01   2.90944D-01   2.90944D-01
+    9 -   12:   -2.35177D-01  -2.35177D-01  -6.83835D-01  -6.83835D-01
+   13 -   16:    8.06121D-01   8.06121D-01   8.51787D-01   8.51787D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    3.38962D-01  -3.38962D-01   0.00000D+00   4.48343D-01
+    5 -    8:   -4.48343D-01   0.00000D+00   7.70274D-01  -7.70274D-01
+    9 -   12:   -7.50627D-01   7.50627D-01  -3.55838D-01   3.55838D-01
+   13 -   16:   -6.25654D-01   6.25654D-01  -5.98622D-01   5.98622D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.05253D-01   8.05253D-01   5.69790D-01   5.13715D-01
+    5 -    8:    5.13715D-01   4.74068D-01   4.25397D-01   4.25397D-01
+    9 -   12:    3.58733D-01   3.58733D-01   3.09079D-01   3.09079D-01
+   13 -   16:    3.78520D-03   3.78520D-03   9.51555D-05   9.51555D-05
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      11
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -4.06291D-01  -4.06291D-01  -4.42920D-01   4.07964D-01
+    5 -    8:    4.07964D-01   8.59952D-01   1.45317D-01   1.45317D-01
+    9 -   12:    7.86897D-01   7.86897D-01  -5.85251D-01  -5.85251D-01
+   13 -   16:    8.06116D-01   8.06116D-01   8.51785D-01   8.51785D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:   -1.47274D-01   1.47274D-01   0.00000D+00  -6.63959D-01
+    5 -    8:    6.63959D-01   0.00000D+00  -7.81646D-01   7.81646D-01
+    9 -   12:    4.43263D-01  -4.43263D-01   5.74745D-01  -5.74745D-01
+   13 -   16:   -6.25643D-01   6.25643D-01  -5.98632D-01   5.98632D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    7.59021D-01   7.59021D-01   7.48359D-01   5.41846D-01
+    5 -    8:    5.41846D-01   4.91889D-01   4.67833D-01   4.67833D-01
+    9 -   12:    4.19509D-01   4.19509D-01   2.96627D-01   2.96627D-01
+
+# Quadtree, 84 steps, 79.2378 CPU, 79.34 real, 3.47e+04 points.step/s, 619 var
+
+# Quadtree, 84 steps, 68.8759 CPU, 68.94 real, 3.99e+04 points.step/s, 623 var
+
+# Quadtree, 84 steps, 56.2374 CPU, 56.35 real, 4.89e+04 points.step/s, 627 var
+
+# Quadtree, 84 steps, 60.7202 CPU, 60.83 real, 4.52e+04 points.step/s, 631 var
+
+# Quadtree, 84 steps, 85.3963 CPU, 85.41 real, 3.22e+04 points.step/s, 635 var
+
+# Quadtree, 84 steps, 101.204 CPU, 101.4 real, 2.72e+04 points.step/s, 639 var
+
+# Quadtree, 84 steps, 83.9277 CPU, 84.05 real, 3.28e+04 points.step/s, 643 var
+
+# Quadtree, 84 steps, 63.5314 CPU, 63.59 real, 4.33e+04 points.step/s, 647 var
+
+# Quadtree, 84 steps, 62.7225 CPU, 62.77 real, 4.38e+04 points.step/s, 651 var
+
+# Quadtree, 84 steps, 56.6206 CPU, 56.65 real, 4.86e+04 points.step/s, 655 var
+
+# Quadtree, 84 steps, 55.0838 CPU, 55.13 real, 4.99e+04 points.step/s, 659 var
+
+# Quadtree, 84 steps, 56.6236 CPU, 56.71 real, 4.85e+04 points.step/s, 663 var
+
+# Quadtree, 84 steps, 53.7647 CPU, 53.81 real, 5.12e+04 points.step/s, 667 var
+
+# Quadtree, 84 steps, 55.7834 CPU, 55.87 real, 4.93e+04 points.step/s, 671 var
+
+# Quadtree, 84 steps, 61.6721 CPU, 61.72 real, 4.46e+04 points.step/s, 675 var
+
+# Quadtree, 84 steps, 80.7452 CPU, 80.77 real, 3.41e+04 points.step/s, 679 var
+
+# Quadtree, 84 steps, 91.7989 CPU, 91.93 real, 2.99e+04 points.step/s, 683 var
+
+# Quadtree, 84 steps, 86.6189 CPU, 86.66 real, 3.18e+04 points.step/s, 687 var
+
+# Quadtree, 84 steps, 94.4098 CPU, 94.51 real, 2.91e+04 points.step/s, 691 var
+
+# Quadtree, 84 steps, 61.5305 CPU, 61.58 real, 4.47e+04 points.step/s, 695 var
+
+# Quadtree, 84 steps, 55.5516 CPU, 55.6 real, 4.95e+04 points.step/s, 699 var
+
+# Quadtree, 84 steps, 62.9179 CPU, 62.98 real, 4.37e+04 points.step/s, 703 var
+
+# Quadtree, 84 steps, 58.7599 CPU, 58.81 real, 4.68e+04 points.step/s, 707 var
+
+# Quadtree, 84 steps, 57.0459 CPU, 57.1 real, 4.82e+04 points.step/s, 711 var
+   13 -   16:    2.63950D-03   2.63950D-03   5.86568D-05   5.86568D-05
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      12
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -2.31116D-01   8.17000D-01   7.56294D-01   7.56294D-01
+    5 -    8:    2.30898D-02   2.30898D-02   5.21502D-01   5.21502D-01
+    9 -   12:   -2.97560D-01  -2.97560D-01  -6.99334D-01  -6.99334D-01
+   13 -   16:    8.06112D-01   8.06112D-01   8.51790D-01   8.51790D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   0.00000D+00  -3.83950D-01   3.83950D-01
+    5 -    8:    7.46776D-01  -7.46776D-01  -6.69065D-01   6.69065D-01
+    9 -   12:    7.31856D-01  -7.31856D-01  -3.25231D-01   3.25231D-01
+   13 -   16:   -6.25652D-01   6.25652D-01   5.98633D-01  -5.98633D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.30671D-01   5.49290D-01   5.10165D-01   5.10165D-01
+    5 -    8:    4.81542D-01   4.81542D-01   4.52791D-01   4.52791D-01
+    9 -   12:    3.63644D-01   3.63644D-01   3.21379D-01   3.21379D-01
+   13 -   16:    1.76887D-03   1.76887D-03   3.21258D-05   3.21258D-05
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    2.08167D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       3
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       5
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       7
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       9
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      11
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      13
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -5.17106D-01  -6.35844D-01  -6.35844D-01   8.76028D-01
+
+# Quadtree, 84 steps, 58.7474 CPU, 58.81 real, 4.68e+04 points.step/s, 715 var
+
+# Quadtree, 84 steps, 56.8578 CPU, 56.93 real, 4.84e+04 points.step/s, 719 var
+
+# Quadtree, 84 steps, 61.8182 CPU, 61.9 real, 4.45e+04 points.step/s, 723 var
+
+# Quadtree, 84 steps, 79.6622 CPU, 79.72 real, 3.45e+04 points.step/s, 727 var
+
+# Quadtree, 84 steps, 86.6297 CPU, 86.65 real, 3.18e+04 points.step/s, 731 var
+
+# Quadtree, 84 steps, 90.4596 CPU, 90.58 real, 3.04e+04 points.step/s, 735 var
+
+# Quadtree, 84 steps, 87.0138 CPU, 87.08 real, 3.16e+04 points.step/s, 739 var
+
+# Quadtree, 84 steps, 54.6332 CPU, 54.69 real, 5.03e+04 points.step/s, 743 var
+
+# Quadtree, 84 steps, 59.0373 CPU, 59.11 real, 4.66e+04 points.step/s, 747 var
+
+# Quadtree, 84 steps, 56.6115 CPU, 56.66 real, 4.86e+04 points.step/s, 751 var
+
+# Quadtree, 84 steps, 102.53 CPU, 102.6 real, 2.68e+04 points.step/s, 755 var
+
+# Quadtree, 84 steps, 95.0635 CPU, 95.13 real, 2.89e+04 points.step/s, 759 var
+    5 -    8:    5.43958D-01   5.43958D-01   8.15935D-01   8.15935D-01
+    9 -   12:   -3.97868D-01  -3.97868D-01   5.41294D-02   5.41294D-02
+   13 -   16:    8.06120D-01   8.06120D-01   8.51791D-01   8.51791D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   2.15551D-01  -2.15551D-01   0.00000D+00
+    5 -    8:   -6.68530D-01   6.68530D-01   4.23475D-01  -4.23475D-01
+    9 -   12:   -6.78596D-01   6.78596D-01   8.10004D-01  -8.10004D-01
+   13 -   16:   -6.25652D-01   6.25652D-01  -5.98630D-01   5.98630D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    6.47536D-01   4.51786D-01   4.51786D-01   4.42602D-01
+    5 -    8:    4.02789D-01   4.02789D-01   3.82959D-01   3.82959D-01
+    9 -   12:    3.61117D-01   3.61117D-01   3.58202D-01   3.58202D-01
+   13 -   16:    1.10004D-03   1.10004D-03   1.75688D-05   1.75688D-05
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    2.77556D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       4
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       5
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       7
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       9
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      11
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      14
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -2.54098D-01   7.39551D-01   4.34552D-01   4.34552D-01
+    5 -    8:   -1.06191D-02  -1.06191D-02  -1.99803D-01  -1.99803D-01
+    9 -   12:    7.58190D-01   7.58190D-01  -6.31437D-01  -6.31437D-01
+   13 -   16:    8.06119D-01   8.06119D-01   8.51790D-01   8.51790D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   0.00000D+00   5.68648D-01  -5.68648D-01
+    5 -    8:    7.11222D-01  -7.11222D-01   6.97270D-01  -6.97270D-01
+    9 -   12:   -3.47125D-01   3.47125D-01   3.50088D-01  -3.50088D-01
+   13 -   16:    6.25648D-01  -6.25648D-01   5.98630D-01  -5.98630D-01
+
+# Quadtree, 84 steps, 89.3531 CPU, 89.38 real, 3.08e+04 points.step/s, 763 var
+
+# Quadtree, 84 steps, 81.718 CPU, 81.75 real, 3.37e+04 points.step/s, 767 var
+
+# Quadtree, 84 steps, 88.2787 CPU, 88.44 real, 3.11e+04 points.step/s, 771 var
+
+# Quadtree, 84 steps, 67.3745 CPU, 67.44 real, 4.08e+04 points.step/s, 775 var
+
+# Quadtree, 84 steps, 58.9285 CPU, 58.99 real, 4.67e+04 points.step/s, 779 var
+
+# Quadtree, 84 steps, 65.6914 CPU, 65.74 real, 4.19e+04 points.step/s, 783 var
+
+# Quadtree, 84 steps, 54.3194 CPU, 54.4 real, 5.06e+04 points.step/s, 787 var
+
+# Quadtree, 84 steps, 59.5936 CPU, 59.63 real, 4.62e+04 points.step/s, 791 var
+
+# Quadtree, 84 steps, 57.477 CPU, 57.55 real, 4.78e+04 points.step/s, 795 var
+
+# Quadtree, 84 steps, 90.7479 CPU, 90.78 real, 3.03e+04 points.step/s, 799 var
+
+# Quadtree, 84 steps, 83.1993 CPU, 83.23 real, 3.31e+04 points.step/s, 803 var
+
+# Quadtree, 84 steps, 96.7013 CPU, 96.76 real, 2.84e+04 points.step/s, 807 var
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.08710D-01   6.20692D-01   5.72973D-01   5.72973D-01
+    5 -    8:    5.60539D-01   5.60539D-01   5.34840D-01   5.34840D-01
+    9 -   12:    5.05501D-01   5.05501D-01   3.71734D-01   3.71734D-01
+   13 -   16:    5.83615D-04   5.83615D-04   7.94529D-06   7.94529D-06
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       2
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:   -3.46945D-17
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       3
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       5
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       7
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:       9
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _napps: matrix splitting at row/column no.
+ ------------------------------------------
+    1 -    1:      15
+  
+
+ _napps: matrix splitting with shift number.
+ -------------------------------------------
+    1 -    1:      11
+  
+
+ _napps: off diagonal element.
+ -----------------------------
+    1 -    1:    0.00000D+00
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      15
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:    1.28189D-01  -3.40001D-01  -3.40001D-01   3.72056D-01
+    5 -    8:    3.72056D-01   8.97400D-01  -7.07668D-01  -7.07668D-01
+    9 -   12:   -2.11475D-01  -2.11475D-01   8.43999D-01   8.43999D-01
+   13 -   16:    8.06118D-01   8.06118D-01   8.51789D-01   8.51789D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   5.03615D-01  -5.03615D-01   6.95514D-01
+    5 -    8:   -6.95514D-01   0.00000D+00  -2.33411D-01   2.33411D-01
+    9 -   12:    7.59950D-01  -7.59950D-01  -4.51495D-01   4.51495D-01
+   13 -   16:   -6.25651D-01   6.25651D-01  -5.98630D-01   5.98630D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    8.05554D-01   5.42568D-01   5.42568D-01   4.23942D-01
+    5 -    8:    4.23942D-01   3.96514D-01   3.83279D-01   3.83279D-01
+    9 -   12:    2.96164D-01   2.96164D-01   2.73399D-01   2.73399D-01
+   13 -   16:    2.50578D-04   2.50578D-04   3.46431D-06   3.46431D-06
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+
+# Quadtree, 84 steps, 88.8349 CPU, 88.92 real, 3.1e+04 points.step/s, 811 var
+
+# Quadtree, 84 steps, 93.516 CPU, 93.67 real, 2.94e+04 points.step/s, 815 var
+
+# Quadtree, 84 steps, 89.3984 CPU, 89.5 real, 3.08e+04 points.step/s, 819 var
+
+# Quadtree, 84 steps, 60.2581 CPU, 60.34 real, 4.56e+04 points.step/s, 823 var
+
+# Quadtree, 84 steps, 63.4638 CPU, 63.52 real, 4.33e+04 points.step/s, 827 var
+
+# Quadtree, 84 steps, 92.8564 CPU, 92.89 real, 2.96e+04 points.step/s, 831 var
+
+# Quadtree, 84 steps, 80.8414 CPU, 80.87 real, 3.4e+04 points.step/s, 835 var
+
+# Quadtree, 84 steps, 80.8558 CPU, 80.93 real, 3.4e+04 points.step/s, 839 var
+
+# Quadtree, 84 steps, 57.9319 CPU, 58.01 real, 4.74e+04 points.step/s, 843 var
+
+# Quadtree, 84 steps, 64.8479 CPU, 64.94 real, 4.24e+04 points.step/s, 847 var
+
+# Quadtree, 84 steps, 64.9245 CPU, 65.02 real, 4.23e+04 points.step/s, 851 var
+
+# Quadtree, 84 steps, 57.1818 CPU, 57.28 real, 4.81e+04 points.step/s, 855 var
+
+# Quadtree, 84 steps, 55.5784 CPU, 55.67 real, 4.94e+04 points.step/s, 859 var
+
+# Quadtree, 84 steps, 59.4803 CPU, 59.56 real, 4.62e+04 points.step/s, 863 var
+
+# Quadtree, 84 steps, 57.1249 CPU, 57.22 real, 4.81e+04 points.step/s, 867 var
+
+# Quadtree, 84 steps, 60.3058 CPU, 60.37 real, 4.56e+04 points.step/s, 871 var
+
+# Quadtree, 84 steps, 79.9826 CPU, 80.08 real, 3.44e+04 points.step/s, 875 var
+
+# Quadtree, 84 steps, 77.9799 CPU, 78.11 real, 3.52e+04 points.step/s, 879 var
+
+# Quadtree, 84 steps, 96.275 CPU, 96.33 real, 2.86e+04 points.step/s, 883 var
+
+# Quadtree, 84 steps, 72.9055 CPU, 72.98 real, 3.77e+04 points.step/s, 887 var
+
+# Quadtree, 84 steps, 56.736 CPU, 56.88 real, 4.84e+04 points.step/s, 891 var
+
+# Quadtree, 84 steps, 61.2179 CPU, 61.31 real, 4.49e+04 points.step/s, 895 var
+
+# Quadtree, 84 steps, 61.1023 CPU, 61.2 real, 4.5e+04 points.step/s, 899 var
+
+# Quadtree, 84 steps, 94.0656 CPU, 94.15 real, 2.92e+04 points.step/s, 903 var
+ -------------------------------------------------
+    1 -    1:      16
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -4.68730D-02  -4.68730D-02   1.57835D-01   1.57835D-01
+    5 -    8:    8.61465D-01   8.61465D-01  -6.87846D-01  -6.87846D-01
+    9 -   12:    7.49239D-01   7.49239D-01  -5.25749D-01  -5.25749D-01
+   13 -   16:    8.06119D-01   8.06119D-01   8.51789D-01   8.51789D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:   -7.04654D-01   7.04654D-01   6.90094D-01  -6.90094D-01
+    5 -    8:   -1.83296D-01   1.83296D-01  -1.19477D-01   1.19477D-01
+    9 -   12:    4.89948D-01  -4.89948D-01   5.17109D-01  -5.17109D-01
+   13 -   16:    6.25651D-01  -6.25651D-01   5.98631D-01  -5.98631D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    5.36655D-01   5.36655D-01   5.33123D-01   5.33123D-01
+    5 -    8:    4.41831D-01   4.41831D-01   4.36555D-01   4.36555D-01
+    9 -   12:    3.81776D-01   3.81776D-01   3.26748D-01   3.26748D-01
+   13 -   16:    1.14678D-04   1.14678D-04   1.44161D-06   1.44161D-06
+  
+
+ _naup2: no. of "converged" Ritz values at this iter.
+ ----------------------------------------------------
+    1 -    1:       0
+  
+
+ _naup2: **** Start of major iteration number ****
+ -------------------------------------------------
+    1 -    1:      17
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       4
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      12
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -7.20964D-01   5.10521D-01   5.10521D-01   1.09721D-01
+    5 -    8:    1.09721D-01   8.80804D-01  -3.58973D-01  -3.58973D-01
+    9 -   12:   -5.76852D-01  -5.76852D-01   8.24996D-01   8.24996D-01
+   13 -   16:    8.06119D-01   8.06119D-01   8.51790D-01   8.51790D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00   6.41823D-01  -6.41823D-01   7.41812D-01
+    5 -    8:   -7.41812D-01   0.00000D+00  -6.20535D-01   6.20535D-01
+    9 -   12:    4.15533D-01  -4.15533D-01   4.35260D-01  -4.35260D-01
+   13 -   16:   -6.25650D-01   6.25650D-01  -5.98631D-01   5.98631D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    4.81855D-01   4.70351D-01   4.70351D-01   4.55933D-01
+    5 -    8:    4.55933D-01   4.50672D-01   4.48461D-01   4.48461D-01
+    9 -   12:    4.26948D-01   4.26948D-01   3.54062D-01   3.54062D-01
+   13 -   16:    6.90717D-05   6.90717D-05   7.92577D-07   7.92577D-07
+  
+
+ _ngets: KEV is
+ --------------
+    1 -    1:       6
+  
+
+ _ngets: NP is
+ -------------
+    1 -    1:      10
+  
+
+ _ngets: Eigenvalues of current H matrix -- real part
+ ----------------------------------------------------
+    1 -    4:   -7.20964D-01   5.10521D-01   5.10521D-01   1.09721D-01
+    5 -    8:    1.09721D-01   8.80804D-01  -3.58973D-01  -3.58973D-01
+    9 -   12:   -5.76852D-01  -5.76852D-01   8.24996D-01   8.24996D-01
+   13 -   16:    8.06119D-01   8.06119D-01   8.51790D-01   8.51790D-01
+  
+
+ _ngets: Eigenvalues of current H matrix -- imag part
+ ----------------------------------------------------
+    1 -    4:    0.00000D+00  -6.41823D-01   6.41823D-01  -7.41812D-01
+    5 -    8:    7.41812D-01   0.00000D+00   6.20535D-01  -6.20535D-01
+    9 -   12:   -4.15533D-01   4.15533D-01   4.35260D-01  -4.35260D-01
+   13 -   16:   -6.25650D-01   6.25650D-01  -5.98631D-01   5.98631D-01
+  
+
+ _ngets: Ritz estimates of the current KEV+NP Ritz values
+ --------------------------------------------------------
+    1 -    4:    4.81855D-01   4.70351D-01   4.70351D-01   4.55933D-01
+    5 -    8:    4.55933D-01   4.50672D-01   4.48461D-01   4.48461D-01

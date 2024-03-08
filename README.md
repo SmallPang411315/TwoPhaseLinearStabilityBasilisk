@@ -12,4 +12,4 @@ In [Validation_Schmidt_2021](Validation_Schmidt_2021/), some .c codes that are u
 
 In [JetLSA](JetLSA/), the file EigenVec comprises of all eigenvectors, and top eigenvalues are logged in file [out](JetLSA/out) for each iteration. You can run [EigenPlot.py](JetLSA/EigenPlot.py) to plot the eigenvectors. 
 
-There are still many resutls, and we do not upload all because of storage, sorry! 
+There are still many resutls, and we do not upload all because of storage. Sorry for that! And we appreciate the help from Schmidt. Thanks! 
